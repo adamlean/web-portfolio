@@ -1,6 +1,6 @@
 # 🎨 Web Portfolio
 
-[README_RU](Ru-Version)
+[RU](README_RU.md)
 
 🧩 This is my **frontend portfolio** containing responsive layout projects built with **pure HTML / CSS / JS**, without frameworks or CMS.  
 Each project is responsive, cross-browser compatible, and deployed on Netlify.
