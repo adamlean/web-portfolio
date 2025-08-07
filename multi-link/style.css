@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 2rem;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 100%;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.bio {
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.links a {
+  display: block;
+  padding: 14px 20px;
+  margin: 10px 0;
+  background-color: #222;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background 0.3s ease, transform 0.2s;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.links a:hover {
+  background-color: #444;
+  transform: scale(1.02);
+}
+
+.link-block {
+  margin-bottom: 1.5rem;
+}
+
+.link-block a {
+  display: block;
+  padding: 14px;
+  background: #222;
+  color: #fff;
+  text-align: center;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.link-block .description {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 6px;
+  text-align: center;
+}
+
+.link-with-desc {
+  display: block;
+  background: #333;
+  color: white;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  text-align: left;
+  transition: background 0.3s ease;
+}
+
+.link-with-desc:hover {
+  background: #555;
+}
+
+.link-with-desc .title {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.link-with-desc .desc {
+  font-size: 0.85rem;
+  color: #ccc;
+}
