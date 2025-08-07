@@ -1,0 +1,170 @@
+@media (max-width: 768px) {
+  html, body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 20px;
+  }
+
+  .logo {
+    margin-left: 0;
+    font-size: 1.25rem;
+  }
+
+  .nav {
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+    margin-top: 12px;
+  }
+
+  .hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .hero-text {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  .hero-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .hero-text {
+    padding: 20px;
+  }
+
+  .hero-text h2 {
+    display: none;
+  }
+
+  .our {
+    flex-direction: column;
+    gap: 40px;
+    padding: 0 20px;
+  }
+
+  .customers {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .customers-block {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .customers-textarea {
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .customers-image {
+    grid-template-columns: 1fr;
+    gap: 48px;
+    margin-top: 20px;
+  }
+
+  .projects {
+    gap: 60px;
+    margin-top: 60px;
+    padding: 0 20px;
+  }
+
+  .projects-title h2 {
+    font-size: 1.5rem;
+    line-height: 1.4;
+  }
+
+  .projects-title p {
+    font-size: 1rem;
+  }
+
+  .projects-image {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .team-area {
+    flex-direction: column;
+    gap: 32px;
+    padding: 0 20px;
+  }
+
+  .team-content {
+    margin-bottom: 40px;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .team-member {
+    width: 100%;
+  }
+
+  .footer__content {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+  }
+
+  .footer__right {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  /* Gallery */
+
+  .projects-image {
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    gap: 0;
+  }
+
+  .projects-item {
+    flex: 0 0 100%;
+    scroll-snap-align: center;
+  }
+
+  .projects-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* убрать полосу прокрутки на iOS */
+  .projects-image::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Process */
+
+  .our-process {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .process-content {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .process-step {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+}
