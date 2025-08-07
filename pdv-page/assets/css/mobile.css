@@ -1,0 +1,16 @@
+@media (max-width: 750px) {
+  .trusted-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .trusted-item:nth-child(4),
+  .trusted-item:nth-child(8),
+  .trusted-item:nth-child(2n) {
+    border-right: none;
+  }
+}
+
+@media (max-width: 450px) {
+  .trusted-grid {
+    grid-template-columns: 1fr;
+  }
+}
