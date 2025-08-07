@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #121212 url("../img/bgd-pages.png");
+  background-size: cover;
+  background-repeat: repeat;
+  font-family: 'Arial', sans-serif;
+  color: white;
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 60px;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo span {
+  line-height: 1;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  padding: 6px 0;
+  position: relative;
+}
+
+nav ul li a.active::before {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.newsletter-btn {
+  margin-left: 20px;
+  padding: 6px 14px;
+  border: 1px solid white;
+  border-radius: 16px;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+
+/* Merch */
+
+.merch-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 60px;
+  padding: 80px 60px;
+  text-align: center;
+  align-items: center;
+}
+
+.merch-grid .item img {
+  width: 160px;
+  height: auto;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
+.merch-grid .label {
+  font-weight: bold;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.merch-grid .logo-center {
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 0 black;
+}
+
+/* Music */
+
+.music-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  padding: 80px 60px;
+  text-align: center;
+  align-items: center;
+}
+
+.music-grid .item img {
+  width: 250px;
+  height: auto;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
+.music-grid .label {
+  font-weight: bold;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+/* About */
+
+.about {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px 40px;
+}
+
+.about h3 {
+  font-size: 35px;
+  margin-bottom: 1em;
+}
+
+.about p {
+  font-size: 30px;
+  text-indent: 2em;
+  margin-bottom: 1em;
+}
