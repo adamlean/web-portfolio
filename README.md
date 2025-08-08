@@ -20,7 +20,7 @@ Each project is responsive, cross-browser compatible, and deployed on Netlify.
 | **Far East Supplier**  | [pdv-page.netlify.app](https://pdv-page.netlify.app)                        | Multi-page supplier website                                              |
 | **Multi-Link**         | [mltilink.netlify.app](https://mltilink.netlify.app/)                       | Bio-link / profile landing                                               |
 | **Music Band**         | [musicbandweb.netlify.app](https://musicbandweb.netlify.app/)               | Band website                                                             |
-| **Music Artist**       | [musicartist-web.netlify.app](https://musicartist-web.netlify.app/)         | Personal artist website                                                  |
+| **Music Artist**       | [musicartist-web.netlify.app](https://musicartist-web.netlify.app/)         | Personal artist website, Method Man tribuite                             |
 | **Gaming Plarform**    | [https://gameplatforn.netlify.app](https://gameplatforn.netlify.app/)       | Videogame community. Layout - HTML + Tailwind. deploy - React + Tailwind |
 
 ---
