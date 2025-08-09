@@ -22,6 +22,7 @@ Each project is responsive, cross-browser compatible, and deployed on Netlify.
 | **Music Band**         | [musicbandweb.netlify.app](https://musicbandweb.netlify.app/)               | Band website                                                             |
 | **Music Artist**       | [musicartist-web.netlify.app](https://musicartist-web.netlify.app/)         | Personal artist website, Method Man tribuite                             |
 | **Gaming Plarform**    | [https://gameplatforn.netlify.app](https://gameplatforn.netlify.app/)       | Videogame community. Layout - HTML + Tailwind. deploy - React + Tailwind |
+| **Lean WebDev**        | [https://leanwebdev.netlify.app](https://leanwebdev.netlify.app/)           | My old portfolio                                                         |
 
 ---
 
