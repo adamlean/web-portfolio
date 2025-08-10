@@ -13,11 +13,11 @@
         <img src="./assets/img/logo-2.png" alt="МАОТ" />
       </div>
       <nav class="nav">
-        <a href="#">Главная</a>
-        <a href="#">Номера</a>
-        <a href="#">Развлечения</a>
-        <a href="#">Трансфер</a>
-        <a href="#">Контакты</a>
+        <a data-page="index.html" href="/">Главная</a>
+        <a data-page="pages/rooms.html" href="#">Номера</a>
+        <a data-page="pages/entertainment.html" href="#">Развлечения</a>
+        <a data-page="pages/transfer.html" href="#">Трансфер</a>
+        <a data-page="pages/contacts.html" href="#">Контакты</a>
       </nav>
       <div class="social-group">
         <a href="#"><img src="./assets/svg/vk.svg" alt="VK" /></a>
@@ -26,7 +26,8 @@
       </div>
     </header>
 
-    <main>
+    <!-- Главная страница сразу вставлена -->
+    <main id="content">
       <div class="hero">
         <div class="hero-content">
           <h1>Отель<br />«Долина 960»</h1>
@@ -53,17 +54,11 @@
                 <button>Подробнее</button>
               </div>
             </div>
-            <div class="card">
-              <img src="room3.jpg" alt="Star Кинг" />
-              <div class="card-info">
-                <h3>Star Кинг</h3>
-                <p>₽ 8 000</p>
-                <button>Подробнее</button>
-              </div>
-            </div>
           </div>
         </div>
       </section>
     </main>
+
+    <script src="app.js"></script>
   </body>
 </html>
