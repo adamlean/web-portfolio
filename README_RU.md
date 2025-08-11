@@ -23,6 +23,7 @@
 | **Music Artist**               | [musicartist-web.netlify.app](https://musicartist-web.netlify.app/)         | Сайт сольного исполнителя, Method Man tribuite                            |
 | **Gaming Plarform**            | [https://gameplatforn.netlify.app](https://gameplatforn.netlify.app/)       | Сообщество геймеров, Верстка - HTML + Tailwind. деплой - React + Tailwind |
 | **Lean WebDev**                | [https://leanwebdev.netlify.app](https://leanwebdev.netlify.app/)           | Мое старое портфолио                                                      |
+| **Web Studio**                 | [https://webstudio451.netlify.app](https://webstudio451.netlify.app)        | Портфолио веб-студии                                                      |
 
 ---
 
