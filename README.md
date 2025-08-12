@@ -9,22 +9,22 @@ Each project is responsive, cross-browser compatible, and deployed on Netlify.
 
 ## 🚀 Projects
 
-| Project Name              | Live Demo                                                                   | Description                                                              |
-| ------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **Luxury Detail**         | [luxurydetail.netlify.app](https://luxurydetail.netlify.app)                | Landing page for a detailing studio                                      |
-| **Wishbone Portfolio**    | [wishboneportfolio.netlify.app](https://wishboneportfolio.netlify.app)      | Personal designer portfolio                                              |
-| **Car Service**           | [carservice-landing.netlify.app](https://carservice-landing.netlify.app)    | Auto service landing page                                                |
-| **WolfMedia**             | [w0lfmedia.netlify.app](https://w0lfmedia.netlify.app/)                     | Media agency website                                                     |
-| **DustLand**              | [https://dustland.netlify.app](https://dustland.netlify.app/)               | Videogame Landing                                                        |
-| **Dolina 960**            | [https://dolinahotel-web.netlify.app](https://dolinahotel-web.netlify.app/) | Hotel website                                                            |
-| **Far East Supplier**     | [pdv-page.netlify.app](https://pdv-page.netlify.app)                        | Multi-page supplier website                                              |
-| **Multi-Link**            | [mltilink.netlify.app](https://mltilink.netlify.app/)                       | Bio-link / profile landing                                               |
-| **Music Band**            | [musicbandweb.netlify.app](https://musicbandweb.netlify.app/)               | Band website                                                             |
-| **Music Artist**          | [musicartist-web.netlify.app](https://musicartist-web.netlify.app/)         | Personal artist website, Method Man tribuite                             |
-| **Gaming Plarform**       | [https://gameplatforn.netlify.app](https://gameplatforn.netlify.app/)       | Videogame community. Layout - HTML + Tailwind. deploy - React + Tailwind |
-| **Lean WebDev**           | [https://leanwebdev.netlify.app](https://leanwebdev.netlify.app/)           | My old portfolio                                                         |
-| **Web Studio**            | [https://webstudio451.netlify.app](https://webstudio451.netlify.app)        | Web studio portfolio                                                     |
-| **Softerio Technologies** | [https://softeriotech.netlify.app](https://softeriotech.netlify.app)        | Web studio portfolio 2                                                   |
+| Project Name              | Live Demo                                           | Description                                                              |
+| ------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Luxury Detail**         | [Live Demo](https://luxurydetail.netlify.app)       | Landing page for a detailing studio                                      |
+| **Wishbone Portfolio**    | [Live Demo](https://wishboneportfolio.netlify.app)  | Personal designer portfolio                                              |
+| **Car Service**           | [Live Demo](https://carservice-landing.netlify.app) | Auto service landing page                                                |
+| **WolfMedia**             | [Live Demo](https://w0lfmedia.netlify.app/)         | Media agency website                                                     |
+| **DustLand**              | [Live Demo](https://dustland.netlify.app/)          | Videogame Landing                                                        |
+| **Dolina 960**            | [Live Demo](https://dolinahotel-web.netlify.app/)   | Hotel website                                                            |
+| **Far East Supplier**     | [Live Demo](https://pdv-page.netlify.app)           | Multi-page supplier website                                              |
+| **Multi-Link**            | [Live Demo](https://mltilink.netlify.app/)          | Bio-link / profile landing                                               |
+| **Music Band**            | [Live Demo](https://musicbandweb.netlify.app/)      | Band website                                                             |
+| **Music Artist**          | [Live Demo](https://musicartist-web.netlify.app/)   | Personal artist website, Method Man tribuite                             |
+| **Gaming Plarform**       | [Live Demo](https://gameplatforn.netlify.app/)      | Videogame community. Layout - HTML + Tailwind. deploy - React + Tailwind |
+| **Lean WebDev**           | [Live Demo](https://leanwebdev.netlify.app/)        | My old portfolio                                                         |
+| **Web Studio**            | [Live Demo](https://webstudio451.netlify.app)       | Web studio portfolio                                                     |
+| **Softerio Technologies** | [Live Demo](https://softeriotech.netlify.app)       | Web studio portfolio 2                                                   |
 
 ---
 

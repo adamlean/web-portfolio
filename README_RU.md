@@ -9,22 +9,22 @@
 
 ## 🚀 Проекты
 
-| Название проекта               | Демо                                                                        | Описание                                                                  |
-| ------------------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Luxury Detail**              | [luxurydetail.netlify.app](https://luxurydetail.netlify.app)                | Лэндинг студии детейлинга                                                 |
-| **Wishbone Portfolio**         | [wishboneportfolio.netlify.app](https://wishboneportfolio.netlify.app)      | Персональное портфолио-дизайнера                                          |
-| **Car Service**                | [carservice-landing.netlify.app](https://carservice-landing.netlify.app)    | Лэндинг автосервиса                                                       |
-| **WolfMedia**                  | [w0lfmedia.netlify.app](https://w0lfmedia.netlify.app/)                     | Медиакомпания / Агентство                                                 |
-| **DustLand**                   | [https://dustland.netlify.app](https://dustland.netlify.app/)               | Лендинг для видеоигры                                                     |
-| **Dolina 960**                 | [https://dolinahotel-web.netlify.app](https://dolinahotel-web.netlify.app/) | Вебсайт для отеля                                                         |
-| **Поставщик Дальнего Востока** | [pdv-page.netlify.app](https://pdv-page.netlify.app)                        | Многостраничный сайт поставщика                                           |
-| **Multi-Link**                 | [mltilink.netlify.app](https://mltilink.netlify.app/)                       | Мультилинк вроде Linktree                                                 |
-| **Music Band**                 | [musicbandweb.netlify.app](https://musicbandweb.netlify.app/)               | Сайт музыкальной группы                                                   |
-| **Music Artist**               | [musicartist-web.netlify.app](https://musicartist-web.netlify.app/)         | Сайт сольного исполнителя, Method Man tribuite                            |
-| **Gaming Plarform**            | [https://gameplatforn.netlify.app](https://gameplatforn.netlify.app/)       | Сообщество геймеров, Верстка - HTML + Tailwind. деплой - React + Tailwind |
-| **Lean WebDev**                | [https://leanwebdev.netlify.app](https://leanwebdev.netlify.app/)           | Мое старое портфолио                                                      |
-| **Web Studio**                 | [https://webstudio451.netlify.app](https://webstudio451.netlify.app)        | Портфолио веб-студии                                                      |
-| **Softerio Technologies**      | [https://softeriotech.netlify.app](https://softeriotech.netlify.app)        | Лендинг для веб-студии                                                    |
+| Название проекта               | Демо                                                | Описание                                                                  |
+| ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Luxury Detail**              | [Live Demo](https://luxurydetail.netlify.app)       | Лэндинг студии детейлинга                                                 |
+| **Wishbone Portfolio**         | [Live Demo](https://wishboneportfolio.netlify.app)  | Персональное портфолио-дизайнера                                          |
+| **Car Service**                | [Live Demo](https://carservice-landing.netlify.app) | Лэндинг автосервиса                                                       |
+| **WolfMedia**                  | [Live Demo](https://w0lfmedia.netlify.app/)         | Медиакомпания / Агентство                                                 |
+| **DustLand**                   | [Live Demo](https://dustland.netlify.app/)          | Лендинг для видеоигры                                                     |
+| **Dolina 960**                 | [Live Demo](https://dolinahotel-web.netlify.app/)   | Вебсайт для отеля                                                         |
+| **Поставщик Дальнего Востока** | [Live Demo](https://pdv-page.netlify.app)           | Многостраничный сайт поставщика                                           |
+| **Multi-Link**                 | [Live Demo](https://mltilink.netlify.app/)          | Мультилинк вроде Linktree                                                 |
+| **Music Band**                 | [Live Demo](https://musicbandweb.netlify.app/)      | Сайт музыкальной группы                                                   |
+| **Music Artist**               | [Live Demo](https://musicartist-web.netlify.app/)   | Сайт сольного исполнителя, Method Man tribuite                            |
+| **Gaming Plarform**            | [Live Demo](https://gameplatforn.netlify.app/)      | Сообщество геймеров, Верстка - HTML + Tailwind. деплой - React + Tailwind |
+| **Lean WebDev**                | [Live Demo](https://leanwebdev.netlify.app/)        | Мое старое портфолио                                                      |
+| **Web Studio**                 | [Live Demo](https://webstudio451.netlify.app)       | Портфолио веб-студии                                                      |
+| **Softerio Technologies**      | [Live Demo](https://softeriotech.netlify.app)       | Лендинг для веб-студии                                                    |
 
 ---
 
