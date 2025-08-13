@@ -25,6 +25,7 @@
 | **Lean WebDev**                | [Live Demo](https://leanwebdev.netlify.app/)        | Мое старое портфолио                                                      |
 | **Web Studio**                 | [Live Demo](https://webstudio451.netlify.app)       | Портфолио веб-студии                                                      |
 | **Softerio Technologies**      | [Live Demo](https://softeriotech.netlify.app)       | Лендинг для веб-студии                                                    |
+| **Blog Template**              | [Live Demo](https://blogpage10.netlify.app)         | Сайт-блог                                                                 |
 
 ---
 

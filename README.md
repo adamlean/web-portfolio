@@ -25,6 +25,7 @@ Each project is responsive, cross-browser compatible, and deployed on Netlify.
 | **Lean WebDev**           | [Live Demo](https://leanwebdev.netlify.app/)        | My old portfolio                                                         |
 | **Web Studio**            | [Live Demo](https://webstudio451.netlify.app)       | Web studio portfolio                                                     |
 | **Softerio Technologies** | [Live Demo](https://softeriotech.netlify.app)       | Web studio portfolio 2                                                   |
+| **Blog Template**         | [Live Demo](https://blogpage10.netlify.app)         | Blog website                                                             |
 
 ---
 
