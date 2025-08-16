@@ -1,0 +1,28 @@
+/* Blog */
+
+@media (max-width: 750px) {
+  .about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 25px;
+    padding: 10px 5px;
+  }
+  .about__image img {
+    max-width: 300px;
+    padding: 10px 5px;
+  }
+  .article-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 25px;
+  }
+  .article-title h1 {
+    justify-content: center;
+  }
+
+  .article-disc {
+    justify-content: center;
+  }
+}
